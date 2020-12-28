@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600746905 source:c:\users\admin\documents\grade_calculation_ooj_lab\main.c
+	<stdio.h>
+	<stdlib.h>
+

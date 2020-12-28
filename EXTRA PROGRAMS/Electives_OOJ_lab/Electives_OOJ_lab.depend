@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600775004 source:c:\users\admin\documents\electives_ooj_lab\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

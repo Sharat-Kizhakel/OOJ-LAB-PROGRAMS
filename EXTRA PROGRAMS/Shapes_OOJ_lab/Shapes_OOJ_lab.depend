@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600792554 source:c:\users\admin\documents\shapes_ooj_lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

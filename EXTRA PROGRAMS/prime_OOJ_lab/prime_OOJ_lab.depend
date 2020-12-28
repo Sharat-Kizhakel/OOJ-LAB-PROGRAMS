@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600789715 source:c:\users\admin\documents\prime_ooj_lab\main.cpp
+	<iostream>
+	<math.h>
+
